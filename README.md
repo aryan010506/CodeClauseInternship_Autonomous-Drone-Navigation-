@@ -43,7 +43,7 @@ The environment is displayed using OpenCV and trained using the Q-learning algor
 
 ## 📸 Screenshots
 
-![Screenshot](https://via.placeholder.com/600x300.png?text=Drone+Simulation+UI)  
+![Image](https://github.com/user-attachments/assets/2f5b862c-88d4-40f9-a656-0fe0929557a1)
 
 
 ---
